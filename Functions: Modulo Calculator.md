@@ -25,6 +25,9 @@ print("modulo is", result(a, b))
 
 
 ## Output
+
 <img width="819" height="386" alt="image" src="https://github.com/user-attachments/assets/1eae682a-2fd5-4b82-b38f-bc739b146fa2" />
 
 ## Result
+
+Thus, the program to implement a Modulo Calculator using Functions in Python was executed successfully.
