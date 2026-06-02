@@ -21,3 +21,5 @@ print(y)
 <img width="467" height="330" alt="image" src="https://github.com/user-attachments/assets/246c85dd-beae-4bdd-9c1e-fd1a716d8dae" />
 
 ## Result
+
+Thus, the program to perform Binary Conversion using Built-in Functions in Python was executed successfully.
